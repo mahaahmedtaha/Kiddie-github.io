@@ -1,0 +1,155 @@
+body{
+	background-color: black;
+}
+#container{
+	position: realtive;
+	width: 1000px;
+    height: 1095px;
+    background-color: #f8efc6;
+    margin: 0 auto;
+}
+#Cover{
+  width: 1000px;
+  height:300px;
+  background-image: url("Imgs/ch.jpg");
+  background-repeat: no-repeat;
+  background-size: 1000px 300px;
+  background-color: transparent;
+}
+#title{
+	position: relative;
+	margin-top: 0px;
+    margin-bottom: 10px;
+	background-color: transparent;
+	height: 40px;
+}
+h1{
+	position: relative;
+	padding-top: 0px;
+	padding-bottom: 30px;
+	padding-right: 450px;
+	padding-left: 400px;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-size: 50px;
+    color: #2d669e;
+}
+a1{   
+  color:#2d669e ;
+  font-size:  60px;
+}
+a2{   
+  color: #ec4711;
+  font-size: 60px;
+}
+a3{   
+  color: #f9ca00;
+  font-size:  60px;
+}
+a4{   
+  color: #559b40;
+  font-size:  60px;
+}
+a5{   
+  color: #2d669e;
+  font-size:  60px;
+}
+a6{   
+  color: #ec4711;
+  font-size: 60px;
+}
+#content{
+    position: relative;
+ 	top:10px;
+	background-color: transparent;
+	height: 10px;
+}
+h2{
+	position: relative;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-right: 250px;
+	padding-left: 250px;
+    font-family: serif;
+    font-style: normal;
+    font-size: 15px;
+    color: black;
+}
+
+
+#box {
+    position: relative;
+    height: 30px;
+	width: 600px;
+	margin-left: 200px;
+	margin-right: 0px;
+	margin-top: 30px;
+	background-color: transparent;
+}
+.container-1{
+  width: 300px;
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+}
+.container-1 input#search{
+  height: 30px;
+  width: 600px;
+  background: white;
+  border: thin;
+  font-size: 10pt;
+  float: left;
+  color: black;
+  padding-left: 45px;
+  border-radius: 5px;
+  border-color: black;
+  border-style: solid;
+}
+#picture{
+	position: relative;
+    margin-top: 75px;
+	margin-bottom: 150px;
+	margin-left: 350px;
+	margin-right: 200px;
+	height: 300px;
+	width: 300px;
+	background-image: url("Imgs/fmf3.png") ;
+	background-repeat: no-repeat;
+	background-size: 300px 300px;
+}
+
+
+ul {position: relative;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-bottom: 10px;
+ 
+    padding-left: 280px;
+    overflow: hidden;
+    background-color: transparent;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color:#b9302c;
+    text-align: center;
+    padding: 6px 8px 16px 40px;
+    text-decoration: none;
+}
+
+
+#Footer{
+	  position: relative;
+      width:1000px ;
+      height:40px ;
+     background-color: #505050;
+     margin-bottom: 0px;
+     margin-top: 0px;
+     margin-left: 0px;
+
+
+}
